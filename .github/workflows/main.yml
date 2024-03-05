@@ -25,4 +25,4 @@ jobs:
         run: terraform init
 
       - name: Apply Terraform Changes
-        run: terraform apply -auto-approve
+        run: terraform apply -auto-approve -var="rdsUser=${{ secrets.DB_USERNAME }}" -var="rdsPass=${{ secrets.DB_PASSWORD }}"
