@@ -44,9 +44,13 @@ variable "engineVersionRds" {
 }
 
 variable "rdsUser" {
+  description = "The username for the RDS instance"
+  type        = string
 }
 
 variable "rdsPass" {
+  description = "The password for the RDS instance"
+  type        = string
 }
 
 variable "instanceClass" {
