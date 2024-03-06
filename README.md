@@ -1,4 +1,4 @@
-# 💬 Tech Challenge - Eks Cluster
+# 💬 Tech Challenge - Postgres RDS
 
 ## ✳️ Sobre
 O **Tech Challenge** é um projeto de um sistema de autoatendimento de fast food, que é composto por uma série de dispositivos e interfaces que permitem aos clientes selecionar e fazer pedidos sem precisar interagir com um atendente. Esse repositório contém a IAC(Infraestrutura com código) do cluster AWS-EKS para utilização da aplicação.
