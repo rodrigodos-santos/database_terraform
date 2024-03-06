@@ -19,7 +19,7 @@ O **Tech Challenge** é um projeto de um sistema de autoatendimento de fast food
 ---
 
 ## Arquitetura do projeto
-![Arquitetura do Projeto]('./assets/images/architecture.jpg')
+![Arquitetura do Projeto]('assets/images/architecture.jpg')
 
 ## ▶️ Executando o projeto
 - Execute os seguintes comandos:
